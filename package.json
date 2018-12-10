@@ -1,0 +1,18 @@
+{
+  "name": "BTCWalletAddrCheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "BigInt": "^5.5.3",
+    "crypto-js": "^3.1.9-1",
+    "cryptojs": "^2.5.3",
+    "wallet-address-validator": "^0.1.7"
+  }
+}
